@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052546492090",
+    "project_id": "ecommerce-89a59",
+    "storage_bucket": "ecommerce-89a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052546492090:android:5a949f9454e30f5e4f0483",
+        "android_client_info": {
+          "package_name": "com.saraHamdi.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052546492090-rre1n3nq8j5aeu964qq6i91etg1dm399.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx71J11MfU3CqbklW7QyjiN3ODiK4Gr0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052546492090-rre1n3nq8j5aeu964qq6i91etg1dm399.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
